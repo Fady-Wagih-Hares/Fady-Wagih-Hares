@@ -14,7 +14,7 @@
 
 ### 👤 About Me
 
-- 🎓 Final-year Computer Science student at **Thebes Academy** (Grade: 3.0, Expected Graduation: 2027).
+- 🎓 Final-year Computer Science student.
 - 💻 **Junior React Frontend Developer** building responsive, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**.
 - 🚀 Completed an intensive Frontend Internship at **DEPI (Eyouth)**, architecting scalable UI components and managing global state with **Redux Toolkit**.
 - 🧩 Passionate about clean code, component architecture, UI/UX optimization, and practicing algorithmic problem-solving with **C++**.
